@@ -3,6 +3,7 @@ import streamlit as st
 import cv2
 
 def main():
+    print("this is a test")
     st.set_page_config(page_title="Streamlit WebCam App")
     st.title("Webcam Display Steamlit App")
     st.caption("Powered by OpenCV, Streamlit")
