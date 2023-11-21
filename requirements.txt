@@ -3,4 +3,5 @@ pandas
 streamlit
 numpy
 opencv-python
+opencv-python-headless
 Pillow
