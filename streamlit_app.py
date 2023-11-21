@@ -1,6 +1,6 @@
 import numpy as np
 import streamlit as st
-# import cv2
+import cv2
 
 def main():
     print("this is a test")
